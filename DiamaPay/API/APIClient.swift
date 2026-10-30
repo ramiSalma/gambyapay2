@@ -6,7 +6,7 @@ class APIClient {
 
     // private let baseURL = "https://129.151.250.184:8080/DiamaBankWalletF/"
     // private let baseURL = "http://129.151.250.184:8080/DiamaBankWalletF/"
-    private let baseURL = "http://192.168.1.228:9192/CustomerWalletBE/"
+    private let baseURL = "http://192.168.1.228:8989/AgentWalletB/"
     //private let baseURL = "https://129.151.250.184:8443/DiamaBankWalletF/"
     //private let baseURL = "https://api2.diamabank.com:8444/DiamaBankWalletF/"
 
