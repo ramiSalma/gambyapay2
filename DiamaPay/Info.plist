@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.diamabank.diamacash</string>
+	<key>CFBundleDisplayName</key>
+	<string>GambiaPay</string>
+	<key>CFBundleName</key>
+	<string>GambiaPay</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>cydia</string>
+		<string>sileo</string>
+		<string>zbra</string>
+		<string>filza</string>
+		<string>undecimus</string>
+		<string>checkra1n</string>
+	</array>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>NSCameraUsageDescription</key>
+	<string>Nous avons besoin d&apos;accéder à votre caméra pour scanner les codes QR</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Nous utilisons Face ID pour sécuriser votre accès à GambiaPay</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>GambiaPay se connecte au serveur bancaire sur le réseau local pour authentifier votre compte et traiter vos opérations.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Nous avons besoin d&apos;accéder à votre galerie pour lire les images de codes QR</string>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<false/>
+		<key>UISceneConfigurations</key>
+		<dict/>
+	</dict>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BECBCA3A-99E1-41AB-BAAF-3A2BECF8E717"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "74AE807A-51CD-466D-9AE8-FDCFD5020622"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DiamaPay/Views/FoodDetailsViews.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "FoodOrderDetailsView"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1BD64C12-1726-4AD9-BADD-4F32988FD0AA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DiamaPay/Views/FoodDetailsViews.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "1BD64C12-1726-4AD9-BADD-4F32988FD0AA - cb1e4e626a2b51d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in DIAMACASH.FoodOrderDetailsView.body.getter : some"
+                  moduleName = "DIAMACASH.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramisalma/Documents/projects/gambyaPay2/DiamaPay/Views/FoodDetailsViews.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87">
+               </Location>
+               <Location
+                  uuid = "1BD64C12-1726-4AD9-BADD-4F32988FD0AA - 966f6a771af49fc1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(DIAMACASH.FoodDetailsHeader, DIAMACASH.FoodDetailsSection&lt;SwiftUI.TupleView&lt;(SwiftUI.LabeledContent&lt;SwiftUI.Text, SwiftUI.Text&gt;, SwiftUI.LabeledContent&lt;SwiftUI.Text, SwiftUI.Text&gt;, Swift.Optional&lt;SwiftUI.LabeledContent&lt;SwiftUI.Text, SwiftUI.Text&gt;&gt;, Swift.Optional&lt;SwiftUI.Text&gt;)&gt;&gt;, DIAMACASH.FoodDetailsSection&lt;SwiftUI.ForEach&lt;Swift.Array&lt;DIAMACASH.FoodOrderItem&gt;, Swift.String, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;&gt;, DIAMACASH.FoodDetailsSection&lt;SwiftUI.TupleView&lt;(Swift.Optional&lt;SwiftUI.LabeledContent&lt;SwiftUI.Text, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt;&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in DIAMACASH.FoodOrderDetailsView.body.getter : some"
+                  moduleName = "DIAMACASH.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramisalma/Documents/projects/gambyaPay2/DiamaPay/Views/FoodDetailsViews.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1ED63407-6BA5-4047-9F6C-B9151AA3D5E8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DiamaPay/Views/FoodDetailsViews.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "1ED63407-6BA5-4047-9F6C-B9151AA3D5E8 - 966f6a771af49c1a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(DIAMACASH.FoodDetailsHeader, DIAMACASH.FoodDetailsSection&lt;SwiftUI.TupleView&lt;(SwiftUI.LabeledContent&lt;SwiftUI.Text, SwiftUI.Text&gt;, SwiftUI.LabeledContent&lt;SwiftUI.Text, SwiftUI.Text&gt;, Swift.Optional&lt;SwiftUI.LabeledContent&lt;SwiftUI.Text, SwiftUI.Text&gt;&gt;, Swift.Optional&lt;SwiftUI.Text&gt;)&gt;&gt;, DIAMACASH.FoodDetailsSection&lt;SwiftUI.ForEach&lt;Swift.Array&lt;DIAMACASH.FoodOrderItem&gt;, Swift.String, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;&gt;, DIAMACASH.FoodDetailsSection&lt;SwiftUI.TupleView&lt;(Swift.Optional&lt;SwiftUI.LabeledContent&lt;SwiftUI.Text, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt;&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in DIAMACASH.FoodOrderDetailsView.body.getter : some"
+                  moduleName = "DIAMACASH.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramisalma/Documents/projects/gambyaPay2/DiamaPay/Views/FoodDetailsViews.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92">
+               </Location>
+               <Location
+                  uuid = "1ED63407-6BA5-4047-9F6C-B9151AA3D5E8 - 291f22b1938a6c2c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.LabeledContent&lt;SwiftUI.Text, SwiftUI.Text&gt;, SwiftUI.LabeledContent&lt;SwiftUI.Text, SwiftUI.Text&gt;, Swift.Optional&lt;SwiftUI.LabeledContent&lt;SwiftUI.Text, SwiftUI.Text&gt;&gt;, Swift.Optional&lt;SwiftUI.Text&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(DIAMACASH.FoodDetailsHeader, DIAMACASH.FoodDetailsSection&lt;SwiftUI.TupleView&lt;(SwiftUI.LabeledContent&lt;SwiftUI.Text, SwiftUI.Text&gt;, SwiftUI.LabeledContent&lt;SwiftUI.Text, SwiftUI.Text&gt;, Swift.Optional&lt;SwiftUI.LabeledContent&lt;SwiftUI.Text, SwiftUI.Text&gt;&gt;, Swift.Optional&lt;SwiftUI.Text&gt;)&gt;&gt;, DIAMACASH.FoodDetailsSection&lt;SwiftUI.ForEach&lt;Swift.Array&lt;DIAMACASH.FoodOrderItem&gt;, Swift.String, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;&gt;, DIAMACASH.FoodDetailsSection&lt;SwiftUI.TupleView&lt;(Swift.Optional&lt;SwiftUI.LabeledContent&lt;SwiftUI.Text, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt;&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in DIAMACASH.FoodOrderDetailsView.body.getter : some"
+                  moduleName = "DIAMACASH.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramisalma/Documents/projects/gambyaPay2/DiamaPay/Views/FoodDetailsViews.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "74656870-1326-4D1B-8516-3C75D69FE439"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DiamaPay/Views/FoodDetailsViews.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BE1A09E1-F674-4B09-8E8D-034D69235C07"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DiamaPay/Views/FoodDetailsViews.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "960458DC-0994-45BC-9627-D901B6120555"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DiamaPay/Views/FoodDetailsViews.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "960458DC-0994-45BC-9627-D901B6120555 - 966f6a771af49d12"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(DIAMACASH.FoodDetailsHeader, DIAMACASH.FoodDetailsSection&lt;SwiftUI.TupleView&lt;(SwiftUI.LabeledContent&lt;SwiftUI.Text, SwiftUI.Text&gt;, SwiftUI.LabeledContent&lt;SwiftUI.Text, SwiftUI.Text&gt;, Swift.Optional&lt;SwiftUI.LabeledContent&lt;SwiftUI.Text, SwiftUI.Text&gt;&gt;, Swift.Optional&lt;SwiftUI.Text&gt;)&gt;&gt;, DIAMACASH.FoodDetailsSection&lt;SwiftUI.ForEach&lt;Swift.Array&lt;DIAMACASH.FoodOrderItem&gt;, Swift.String, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;&gt;, DIAMACASH.FoodDetailsSection&lt;SwiftUI.TupleView&lt;(Swift.Optional&lt;SwiftUI.LabeledContent&lt;SwiftUI.Text, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt;&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in DIAMACASH.FoodOrderDetailsView.body.getter : some"
+                  moduleName = "DIAMACASH.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramisalma/Documents/projects/gambyaPay2/DiamaPay/Views/FoodDetailsViews.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100">
+               </Location>
+               <Location
+                  uuid = "960458DC-0994-45BC-9627-D901B6120555 - a26f2cac9ddaf20b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;DIAMACASH.FoodOrderItem&gt;, Swift.String, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(DIAMACASH.FoodDetailsHeader, DIAMACASH.FoodDetailsSection&lt;SwiftUI.TupleView&lt;(SwiftUI.LabeledContent&lt;SwiftUI.Text, SwiftUI.Text&gt;, SwiftUI.LabeledContent&lt;SwiftUI.Text, SwiftUI.Text&gt;, Swift.Optional&lt;SwiftUI.LabeledContent&lt;SwiftUI.Text, SwiftUI.Text&gt;&gt;, Swift.Optional&lt;SwiftUI.Text&gt;)&gt;&gt;, DIAMACASH.FoodDetailsSection&lt;SwiftUI.ForEach&lt;Swift.Array&lt;DIAMACASH.FoodOrderItem&gt;, Swift.String, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;&gt;, DIAMACASH.FoodDetailsSection&lt;SwiftUI.TupleView&lt;(Swift.Optional&lt;SwiftUI.LabeledContent&lt;SwiftUI.Text, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt;&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in DIAMACASH.FoodOrderDetailsView.body.getter : some"
+                  moduleName = "DIAMACASH.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramisalma/Documents/projects/gambyaPay2/DiamaPay/Views/FoodDetailsViews.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "704B3C2C-D3E5-4471-B296-97426377D5C5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DiamaPay/Views/FoodDetailsViews.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3"
+            endingLineNumber = "3"
+            landmarkName = "FoodRestaurantDetailsView"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "28E7A0E4-E15A-4E13-A688-D0569EA64FB5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DiamaPay/Views/StandingInstructionCreateView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "StandingInstructionCreateView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "28E7A0E4-E15A-4E13-A688-D0569EA64FB5 - cf812387a7f32205"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of DIAMACASH.StandingInstructionCreateView.endDate : Foundation.Date"
+                  moduleName = "DIAMACASH.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramisalma/Documents/projects/gambyaPay2/DiamaPay/Views/StandingInstructionCreateView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61">
+               </Location>
+               <Location
+                  uuid = "28E7A0E4-E15A-4E13-A688-D0569EA64FB5 - b21538b028622170"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DIAMACASH.StandingInstructionCreateView.init(presentationMode: SwiftUI.Environment&lt;SwiftUI.Binding&lt;SwiftUI.PresentationMode&gt;&gt;, onSuccess: () -&gt; ()) -&gt; DIAMACASH.StandingInstructionCreateView"
+                  moduleName = "DIAMACASH.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramisalma/Documents/projects/gambyaPay2/DiamaPay/Views/StandingInstructionCreateView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
